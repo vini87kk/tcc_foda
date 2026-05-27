@@ -1,17 +1,29 @@
-#titulo{
+#titulo {
     position: absolute;
-    left: 1340px; top: 500px;
-    color: white;
-    background: linear-gradient(45deg, #fe5196, #f77062);
+    left: 1376px; 
+    top: 475px;
+    height: 30px;
+    width: 180px;
+    color: rgb(255, 255, 255); /* Cor do preenchimento da letra */
+    background: linear-gradient(45deg, #ffffff, #ffffff);
     font-family: Montserrat, "Montserrat Subrayada", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    border-radius: 5px;
+    
+
+    /* Adicione estas linhas para o contorno */
+    -webkit-text-stroke-width: 1px; /* Espessura da linha */
+    -webkit-text-stroke-color: rgb(0, 0, 0); /* Cor da linha (mude para a cor que desejar) */
 }
+
+
 #yan{
     background-color: #005281;
+    
 }
 #Senai{
     position: absolute;
     width: 400px; height: 400px;
-    left: 1271px; top: 67px;
+    left: 1282px; top: 67px;
 }
 #botao{
     position: absolute;
@@ -19,7 +31,7 @@
     border-radius: 5px;
     width: 123px;
     height: 50px;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
 }
 #email{
 position: relative;
@@ -36,10 +48,17 @@ position: relative;
 #email1{
     position: relative;
     color: white;
-    left: 1330px; top: 500px;
+    left: 1365px; top: 500px;
     height: 34px;
-}
+    width: 200px;
 
+}
+#roger{
+    position: absolute;
+    height: 1080px; width: 1075px;
+    left: 1px;;
+    
+}
 
 
 
