@@ -1,0 +1,46 @@
+#titulo{
+    position: absolute;
+    left: 1340px; top: 500px;
+    color: white;
+    background: linear-gradient(45deg, #fe5196, #f77062);
+    font-family: Montserrat, "Montserrat Subrayada", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+#yan{
+    background-color: #005281;
+}
+#Senai{
+    position: absolute;
+    width: 400px; height: 400px;
+    left: 1271px; top: 67px;
+}
+#botao{
+    position: absolute;
+    left: 1340px; top: 700px;
+    border-radius: 5px;
+    width: 123px;
+    height: 50px;
+    background-color: azure;
+}
+#email{
+position: relative;
+    left: 1335px; top: 560px;
+    border-radius: 10px;
+    height: 34px; 
+}
+#senha{
+     position: relative;
+    left: 1106px; top: 620px;
+    border-radius: 10px;
+    height: 34px;
+}
+#email1{
+    position: relative;
+    color: white;
+    left: 1330px; top: 500px;
+    height: 34px;
+}
+
+
+
+
+    
